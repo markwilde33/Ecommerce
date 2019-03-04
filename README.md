@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/markwilde33/Ecommerce.svg?branch=master)](https://travis-ci.org/markwilde33/Ecommerce)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
